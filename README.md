@@ -6,5 +6,5 @@ SwiftUI Masterclass 2021 - iOS 15 App Development & Swift 5
 
 
 <a href="#">
-    <img align="center" width="300%" height="60%" src="game.gif">
+    <img align="center" width="30%" height="60%" src="image.gif">
 </a>
