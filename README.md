@@ -16,6 +16,4 @@ This app is a SwiftUI up to date example of design.
 
 
 
-Find out more in:
-
-*SwiftUI Masterclass 2021 - iOS 15 App Development & Swift 5*
+This project is a module from the *SwiftUI Masterclass 2021 - iOS 15 App Development & Swift 5*.
