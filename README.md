@@ -1,7 +1,13 @@
 # Restart App
 This app is a SwiftUI up to date example of design.
 
-Find out in:
+- Great features from iOS 15
+- Haptic Touch
+- Sound FX
+- Parallax effect
+- Swift5 and SwiftUI good practices
+
+Find out more in:
 SwiftUI Masterclass 2021 - iOS 15 App Development & Swift 5
 
 
