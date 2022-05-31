@@ -11,7 +11,7 @@ This app is a SwiftUI up to date example of design.
 
 
 <a href="#">
-    <img align="center" width="30%" height="60%" src="image.gif">
+    <img align="center" width="50%" height="60%" src="image.gif">
 </a>
 
 
